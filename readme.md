@@ -1,6 +1,6 @@
 # Hydrator
 
-This is a sample hydrator as in [http://openmymind.net/Practical-SOA-Hydration-Part-1/](Practical SOA - Hydration - Part 1) and [http://openmymind.net/Practical-SOA-Hydration-Part-2/](Practical SOA - Hydration - Part 2).
+This is a sample hydrator as in (http://openmymind.net/Practical-SOA-Hydration-Part-1/)[Practical SOA - Hydration - Part 1] and (http://openmymind.net/Practical-SOA-Hydration-Part-2/)[Practical SOA - Hydration - Part 2].
 
 It's meant as a guide, not a finished solution.
 
